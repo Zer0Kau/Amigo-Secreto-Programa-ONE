@@ -9,7 +9,7 @@ Este é um projeto simples de um **Sorteador de Amigo Secreto** desenvolvido com
 
 ## 🖥️ Demonstração
 
-Você pode acessar o projeto online [aqui](#). *(Adicione o link do site hospedado, se houver)*
+Você pode acessar o projeto online [aqui](https://zer0kau.github.io/Amigo-Secreto-Programa-ONE/).
 
 ---
 
