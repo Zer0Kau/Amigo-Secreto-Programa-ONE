@@ -32,7 +32,7 @@ Você pode acessar o projeto online [aqui](#). *(Adicione o link do site hospeda
 
 1. Clone ou faça o download deste repositório:
    ```bash
-   git clone https://github.com/Zer0Kau/Challenge-ONE-Alura-Amigo-Secreto
+   git clone https://github.com/Zer0Kau/Amigo-Secreto-Programa-ONE
    ```
 2. Abra o arquivo `index.html` em qualquer navegador.
 
